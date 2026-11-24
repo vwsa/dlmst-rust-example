@@ -1,3 +1,9 @@
+The only human written sentence:
+> 和群友聊天，觉得还不如让 Astra 手搓一个玩具看看
+> It seems very toy.
+
+
+
 # DLMST in Rust: a brief AI-implemented example
 
 **This is a brief example implemented by an AI coding assistant, without
